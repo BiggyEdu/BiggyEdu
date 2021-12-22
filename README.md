@@ -9,17 +9,23 @@
 
 
 <h1 align="center">WELCOME TO MY GITHUB "Sirs" </h1>
+
 - EduardoCaria@, Brazilian, 35 years "young".<br><br>
-- Private Security Officer. Surveillance Room Operator.<br>,<br>
+
+- Private Security Officer. Surveillance Room Operator.<br><br>
+
 - Studied HTML&CSS Web Developing because I love it.<br><br>
+
 - Cognition in Design-Thinking methods, Devops&Agile and UX basis.<BR><br>
+
 - Love sport running, the mind just works 100% when well trained.<br><br>
+
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><br>
 
 - MARKDOWN
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
--FRAMEWORK
+- FRAMEWORK
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
 
