@@ -5,7 +5,7 @@
  
 ![Alt Text](IMAGE/snakegame.gif)
 
-
+<h3>Coding 4 Hobby! <BR>Coding 4 fun! </h3>
 
 
 <h1 align="center">WELCOME TO MY GITHUB </h1>
