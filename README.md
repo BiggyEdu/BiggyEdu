@@ -34,7 +34,9 @@ IF YOU WANNA CONTACT OR KNOW MORE ABOUT ME, CLICK BADGES BELOW:
 ![Alt Text](IMAGE/gitcat.gif)
 <h2 align="center">My Git Stats</H2>
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocaria)](https://github.com/eduardocaria/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?BiggyEdu={BiggyEdu} ">
 <!---
 EduardoCaria/EduardoCaria is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 You can click the Preview link to take a look at my -readme-stats. ALWAYS LOVE GOD)
