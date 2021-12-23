@@ -36,6 +36,16 @@ IF YOU WANNA CONTACT OR KNOW MORE ABOUT ME, CLICK BADGES BELOW:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocaria)](https://github.com/eduardocaria/github-readme-stats)
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
+
+
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 <!---
 EduardoCaria/EduardoCaria is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
