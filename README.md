@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Eduardo-Caria-%237159c1?style=for-the-badge&logo=ghost)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 <Img src="IMAGE/computer-illustration.png  ">
 
