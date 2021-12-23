@@ -28,7 +28,7 @@
 IF YOU WANNA CONTACT OR KNOW MORE ABOUT ME, CLICK BADGES BELOW:
 <a href="https://wa.me/5511934741577?text=Contato"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "></a>
 <a href="mailto:eduardo.scaria@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "> </a>
-<a href=" https://www.linkedin.com/in/eduardo-caria-5a0b0210b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/eduardo-caria-5a0b0210b "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 -  Keep Walking Folks! <br>
 
 ![Alt Text](IMAGE/gitcat.gif)
