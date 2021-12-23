@@ -1,4 +1,4 @@
-
+![Badge](https://img.shields.io/badge/Eduardo-Caria-%237159c1?style=for-the-badge&logo=ghost)
 
 <Img src="IMAGE/computer-illustration.png  ">
 
