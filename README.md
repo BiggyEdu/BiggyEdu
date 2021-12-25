@@ -36,7 +36,7 @@ IF YOU WANNA CONTACT OR KNOW MORE ABOUT ME, CLICK BADGES BELOW:
 <h2 align="center">My Git Stats</H2>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocaria)](https://github.com/eduardocaria/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biggyedu)](https://github.com/biggyedu/github-readme-stats)
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
