@@ -46,6 +46,7 @@ IF YOU WANNA CONTACT OR KNOW MORE ABOUT ME, CLICK BADGES BELOW:
  <a href="#autor">Autor</a>
 </p>
 
+![Snake animation](https://github.com/biggyedu/biggyedu/blob/output/github-contribution-grid-snake.svg)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 <!---
